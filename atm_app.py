@@ -1,5 +1,5 @@
 account = (input ("Please input your bank number: "))
 password = (input ("Please input your password: "))
-amount = (input ("How much do you want to withdraw pls: "))
+amount = (input ("How much do you want to withdraw: "))
 amount = (input ("How much do you want to withdraw: "))
 print(f"Withdraw a success you \n You were able to withdraw {amount}")
