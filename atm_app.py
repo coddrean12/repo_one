@@ -1,4 +1,4 @@
-account = (input ("Please input your bank number: "))
+account = (input ("Please input your bank num: "))
 password = (input ("Please input your password: "))
 amount = (input ("How much do you want to withdrawl: "))
 amount = (input ("How much do you want to withdrawl: "))
